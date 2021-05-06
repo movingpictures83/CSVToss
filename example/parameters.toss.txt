@@ -1,0 +1,2 @@
+csvfile	abund.norm.csv
+threshold	0.5

@@ -1,0 +1,2 @@
+Prefix plugins/CSVToss/example
+Plugin CSVToss inputfile parameters.toss.txt outputfile abund.norm.tossed.csv
