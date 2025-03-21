@@ -40,7 +40,8 @@ class CSVTossPlugin:
                 #print("EXECUTE")
                 if (is_number(self.my_mat[i][j]) and float(self.my_mat[i][j]) != 0):
                     count = count + 1
-                #elif (not is_number(self.my_mat[i][j])):
+                elif (not is_number(self.my_mat[i][j])):
+                    count = count + 1
                 #    print("WARNING: NOT A NUMBER: "+self.my_mat[i][j])
                 ##else:
                 #    print(self.my_mat[i][j])
